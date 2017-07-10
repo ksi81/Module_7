@@ -15,7 +15,7 @@ body  {
 	text-align: left;
 	
 }
-section { 
+main { 
 	width: 960px;  
 	background-image:url(images/header-bg.png);
 	background-repeat:repeat-x;
@@ -106,7 +106,7 @@ aside ul  li a:hover {
 padding-top: 10px;
 }
 
-main { 
+section { 
 	width: 70%;
 	float:left;
 padding-left: 25px;
@@ -142,7 +142,7 @@ footer img {
 	width: 300px;
 }
 
-section:after {
+main:after {
 	content: "";
 	display: block;
 	clear: both;
