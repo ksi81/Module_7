@@ -106,11 +106,17 @@ aside ul  li a:hover {
 padding-top: 10px;
 }
 
-section { 
+/*section { 
 	width: 70%;
 	float:left;
 padding-left: 25px;
-} 
+} */
+article{
+		width: 70%;
+	float:left;
+padding-left: 25px;
+}
+
 article img { 
 	width: 45%;
 	display: block;
